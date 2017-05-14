@@ -7,9 +7,9 @@ public class Move : MonoBehaviour {
     public GameObject ball;
 
 
+
     void Start()
     {
-
     }
 	void Update () 
     {
